@@ -30,6 +30,7 @@ Consiste en una aplicación web que permite ingresar nombres de amigos, mostrar 
 📦 amigo-secreto
  ┣ 📂 assets
  ┃ ┗ amigo-secreto.png
+ ┃ ┗ juego.png
  ┣ 📜 index.html
  ┣ 📜 style.css
  ┗ 📜 app.js
